@@ -1,0 +1,9 @@
+c:\users\jose luis castillo\documents\visual studio 2013\Projects\Mileage Calculator\Mileage Calculator\bin\Debug\Mileage Calculator.exe.config
+c:\users\jose luis castillo\documents\visual studio 2013\Projects\Mileage Calculator\Mileage Calculator\bin\Debug\Mileage Calculator.exe
+c:\users\jose luis castillo\documents\visual studio 2013\Projects\Mileage Calculator\Mileage Calculator\bin\Debug\Mileage Calculator.pdb
+c:\users\jose luis castillo\documents\visual studio 2013\Projects\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage Calculator.csprojResolveAssemblyReference.cache
+c:\users\jose luis castillo\documents\visual studio 2013\Projects\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage_Calculator.MileageCalculator.resources
+c:\users\jose luis castillo\documents\visual studio 2013\Projects\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage_Calculator.Properties.Resources.resources
+c:\users\jose luis castillo\documents\visual studio 2013\Projects\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage Calculator.csproj.GenerateResource.Cache
+c:\users\jose luis castillo\documents\visual studio 2013\Projects\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage Calculator.exe
+c:\users\jose luis castillo\documents\visual studio 2013\Projects\Mileage Calculator\Mileage Calculator\obj\Debug\Mileage Calculator.pdb
